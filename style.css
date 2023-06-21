@@ -1,0 +1,52 @@
+.div1{
+    text-align: left;
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    
+}
+.div1 h3{
+ display: inline;
+ color: white;
+ font-family: 'Abril Fatface', cursive;
+}
+#button1 {
+    float: right;
+    background-color:white ;
+    border: 2px black solid;
+    margin: right 50px; ;
+
+}
+#button1:hover{
+    width: 200px;
+    border: 5px black solid;
+}
+#start{
+    background-color:white ;
+    border: 2px black solid;
+    margin: right 50px; 
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
+#sourcecode{
+    background-color: black;
+    color :white;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 20px;
+    line-height: 2;
+    margin:0;
+}
+.modal-dialog{
+    width:90%;
+
+}
+.img_int{
+    display: inline-block;
+    width: 40%;
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+}
